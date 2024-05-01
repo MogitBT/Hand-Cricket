@@ -149,5 +149,5 @@ else:
             run = score2 - score
             print( print(f'congratulations you have won by {run1} 🤩'))
         else:
-            print('''Jarvis won😱
+            print('''Jarvis won
                sorry better luck next time''')
